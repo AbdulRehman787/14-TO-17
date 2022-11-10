@@ -27,7 +27,16 @@
 // var arr = ["Zong","Moblink","Warid","Telenor"]
 // console.log(arr)
 
-var arr = ["SSC", "HSC","BCS","BS","BCOM","MS","M.Phil","Phd"]
-for( var i=0 ;i<arr.length;i++){
-    console.log(i + arr )
-}
+// var arr = ["SSC", "HSC","BCS","BS","BCOM","MS","M.Phil","Phd"]
+// for(var i =1; i<arr.length;i++){
+//     document.write(i + " " + arr[i] + "<br/>")
+// }
+
+
+// var arr = ["Avengers : Age of Ultron","Spectre","Jurassic World","inside out"]
+
+// for (var i =0;i<arr.length;i++){
+//     document.write(i + " " + arr[i] + "<br>")
+// }
+
+// document.write("length of array is " +" " + arr.length)
