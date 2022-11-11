@@ -54,4 +54,21 @@
 // var score = [320,230,480,120]
 // console.log(score.sort());
 
-var cities = ["Karachi"]
+// var cities = ["Karachi","Lahore","Islamabad","Quetta" ,"Peshawar"];
+// var sel = cities.slice(2,4)
+// console.log(sel)
+
+// var cities = ["This ","Is ","My " , "Cat"]
+// console.log(cities.join(""));
+
+// var arr=["KeyBorad","Mouse","Printer","Moniter"]
+
+// console.log(arr.filter())
+
+// var data = ["Apple","Samsung","Techno","Oppo"]
+// for (var i = 0;i<data.length;i++){
+
+// }
+
+
+var 
