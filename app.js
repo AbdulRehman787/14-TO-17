@@ -33,11 +33,25 @@
 // }
 
 
-var arr = ["Avengers : Age of Ultron","Spectre","Jurassic World","inside out"]
+// var arr = ["Avengers : Age of Ultron","Spectre","Jurassic World","inside out"]
 
-for (var i =0;i<arr.length;i++){
-document.write("length of array is " +" " + arr.length)
-document.write(i + " " + arr[i] + "<br>")
-}
+// for (var i =0;i<arr.length;i++){
+// document.write("length of array is " +" " + arr.length)
+// document.write(i + " " + arr[i] + "<br>")
+// }
 
-document.write("length of array is " +" " + arr.length)
+// document.write("length of array is " +" " + arr.length)
+
+
+// var arr = ["Audi", "Volvo","Ford","Lamboorgini"]
+// for (var i=0;i<arr.length;i++){
+//     document.write(i + " " + arr[i] + "<br>")
+// }
+
+// var fruits = ["strawberry", "apple", "orange", "banana"];
+// console.log(fruits.sort())
+
+// var score = [320,230,480,120]
+// console.log(score.sort());
+
+var cities = ["Karachi"]
