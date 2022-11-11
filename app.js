@@ -70,5 +70,18 @@
 
 // }
 
+var arr = ["Keyborad","Mouse","printer","Moniter"]
+arr.splice( "out "+1)
+arr.splice( "out "+2)
+arr.splice( "out "+3)
+arr.splice( "out "+4)
 
-var 
+
+// var arr = [0,1,3,4]
+// var arr1 = [1,0,1,2]
+// var arr2 = [2,1,0,1]
+// document.write(arr.join('') + "<br/>"+arr1.join('')+ "<br/>" + arr2.join(''))
+
+// for(var i = 0;i<=10;i++){
+//     document.write(i+"<br/>")
+// }
