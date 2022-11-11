@@ -33,10 +33,11 @@
 // }
 
 
-// var arr = ["Avengers : Age of Ultron","Spectre","Jurassic World","inside out"]
+var arr = ["Avengers : Age of Ultron","Spectre","Jurassic World","inside out"]
 
-// for (var i =0;i<arr.length;i++){
-//     document.write(i + " " + arr[i] + "<br>")
-// }
+for (var i =0;i<arr.length;i++){
+document.write("length of array is " +" " + arr.length)
+document.write(i + " " + arr[i] + "<br>")
+}
 
-// document.write("length of array is " +" " + arr.length)
+document.write("length of array is " +" " + arr.length)
